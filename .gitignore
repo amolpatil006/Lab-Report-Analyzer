@@ -1,0 +1,17 @@
+﻿node_modules/
+**/node_modules/
+.env
+.env.*
+!.env.example
+dist/
+**/dist/
+server/uploads/
+
+# Local report data
+server/data/reports.json
+
+# OCR language model
+server/eng.traineddata
+
+# OCR language model
+server/eng.traineddata

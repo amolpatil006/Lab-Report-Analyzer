@@ -1,0 +1,27 @@
+{
+  "name": "lab-report-analyzer",
+  "version": "1.0.0",
+  "description": "Laboratory Test Report Analyzer - MERN Stack Healthcare Application with OCR",
+  "scripts": {
+    "install:all": "cmd /c \"npm install --prefix server && npm install --prefix client\"",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "start": "npm run dev:server"
+  },
+  "keywords": [
+    "healthcare",
+    "laboratory-test-analysis",
+    "medical-reports",
+    "mern-stack",
+    "mongodb",
+    "ocr",
+    "react",
+    "node"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^10.0.6"
+  }
+}
