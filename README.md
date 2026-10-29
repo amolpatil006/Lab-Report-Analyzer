@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Laboratory Test Report Analyzer (MERN Stack + OCR)
 
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-green.svg)](https://react.dev)
@@ -192,3 +193,6 @@ All 3 automated test suites will execute and validate clinical boundaries.
 ## ⚖️ Legal & Medical Notice
 
 This software is designed as an educational and technical research tool for medical laboratory report interpretation. It does not provide medical diagnosis, clinical evaluation, or treatment prescriptions. Users must consult licensed physicians and healthcare professionals for medical advice.
+=======
+# Lab-Report-Analyzer
+>>>>>>> abcbc1de86a5652c1d49ab1118b7233466b8c094
